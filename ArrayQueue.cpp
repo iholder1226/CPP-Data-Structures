@@ -1,4 +1,4 @@
-//Isaiah Holder
+
 #include"ArrayQueue.h"
 
 ArrayQueue::ArrayQueue(int max){
