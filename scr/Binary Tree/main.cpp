@@ -1,4 +1,4 @@
-//Isaiah Holder , 0871484
+//Isaiah Holder
 //ComSc-210
 //Lab-8  
 //The following program implements a Binary Search Tree with pointers and recursion.
